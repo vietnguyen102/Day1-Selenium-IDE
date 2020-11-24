@@ -14,13 +14,6 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "45152f17-971d-4292-91a4-a440b817eade",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "1050x708",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "b588fac5-1826-4ac0-872c-ae00e152d7ef",
       "comment": "",
       "command": "assertTitle",
